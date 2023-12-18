@@ -3,8 +3,22 @@ import json
 #change discord name to reporters name
 def reporterNickName(reporter):
     match reporter:
-        case "discord nickname":
-            return "Name of reporter"
+        case "Suuuuuuuuuuuuuuuuuuuuuuuuuuuuush":
+            return "Sushi"
+        case "Liiiiiiiiiiiiiiiiiiiiiiiiiiiiiiz":
+            return "Liz"
+        case "Potati potata":
+            return "Darky"
+        case "THIIIIIIIIIIIIIIIIIIIIIIIIIIIIII":
+            return "Thibo"
+        case "Biiiiiiiiiiiiiiiiiiiiiiiiiiiiiii":
+            return "Moon"
+        case "Jaaaaaaaaaaaaaaaaaaaaaaaaaaaaack":
+            return "Jake"
+        case "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE":
+            return "El"
+        case "Neeeeeeeeeeeeeeeeeeeeeeeeeeeeeil":
+            return "Neil"
     return
 
 quotes = []
